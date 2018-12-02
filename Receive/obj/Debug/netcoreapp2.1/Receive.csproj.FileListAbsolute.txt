@@ -1,0 +1,11 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

@@ -1,0 +1,9 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\bin\Debug\netstandard2.0\EasyNetMessages.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\bin\Debug\netstandard2.0\EasyNetMessages.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\bin\Debug\netstandard2.0\EasyNetMessages.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetMessages\obj\Debug\netstandard2.0\EasyNetMessages.pdb

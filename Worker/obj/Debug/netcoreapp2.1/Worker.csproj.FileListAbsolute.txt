@@ -1,0 +1,11 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Worker\obj\Debug\netcoreapp2.1\Worker.pdb

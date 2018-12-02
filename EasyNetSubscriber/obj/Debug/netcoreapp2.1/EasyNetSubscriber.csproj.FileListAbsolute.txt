@@ -1,0 +1,14 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetSubscriber.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetSubscriber.runtimeconfig.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetSubscriber.runtimeconfig.dev.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetSubscriber.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetSubscriber.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetMessages.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\bin\Debug\netcoreapp2.1\EasyNetMessages.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.csproj.CopyComplete
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetSubscriber\obj\Debug\netcoreapp2.1\EasyNetSubscriber.pdb

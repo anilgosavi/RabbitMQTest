@@ -1,0 +1,14 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetPublisher.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetPublisher.runtimeconfig.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetPublisher.runtimeconfig.dev.json
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetPublisher.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetPublisher.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetMessages.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\bin\Debug\netcoreapp2.1\EasyNetMessages.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.csproj.CopyComplete
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\EasyNetPublisher\obj\Debug\netcoreapp2.1\EasyNetPublisher.pdb

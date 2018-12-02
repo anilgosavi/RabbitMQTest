@@ -1,0 +1,11 @@
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp2.1\Send.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp2.1\Send.pdb
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.dll
+C:\Users\agosavi\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp2.1\Send.pdb
