@@ -13,7 +13,7 @@ namespace EasyNetPublisher
                 Console.WriteLine("Enter a message. 'Quit' to quit");
                 while ((input=Console.ReadLine())!="Quit")
                     {
-                    bus.Publish(new TextMessage{Text=input});
+                        bus.Publish(new TextMessage{Text=input});
                     }
             }
         }
